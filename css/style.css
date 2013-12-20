@@ -100,8 +100,9 @@ blockquote {
 /* INTRO SLIDE */
 
 div.block {
-	padding: 0 0 0 70px;
+	padding: 15px 0 10px 70px;
 	margin: 0px;
+	height: 70px;
 }
 
 .yellow {
@@ -130,6 +131,7 @@ div.block {
 }
 .section {
 	margin: 40px 0;
+	width:100%;
 }
 
 /*----CLEARFIX and CLEAR----*/
